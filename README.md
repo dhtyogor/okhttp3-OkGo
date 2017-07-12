@@ -5,12 +5,12 @@ Android Studio用户
 
 ```java
 //必须使用
-compile 'com.lzy.net:okgo:3.0.2'
+compile 'com.github.dhtyogor.okhttp3-OkGo:okgo:1.0'
 
 //以下三个选择添加，okrx和okrx2不能同时使用
-compile 'com.lzy.net:okrx:1.0.2'
-compile 'com.lzy.net:okrx2:2.0.2'  
-compile 'com.lzy.net:okserver:2.0.2'
+compile 'com.github.dhtyogor.okhttp3-OkGo:okrx:1.0'
+compile 'com.github.dhtyogor.okhttp3-OkGo:okrx2:1.0'
+compile 'com.github.dhtyogor.okhttp3-OkGo:okserver:1.0'
 ```
 
 ## 混淆
